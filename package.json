@@ -1,0 +1,12 @@
+{
+  "name": "ai-start-up-success-stories-blogs-3s3tku",
+  "version": "1.0.0",
+  "description": "Generated project for ai-start-up-success-stories-blogs-3s3tku",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
